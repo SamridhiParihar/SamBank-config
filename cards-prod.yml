@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to SamBank cards related prod(web-hook) APIs "
+  message: "Welcome to SamBank cards related prod(web-hooks) APIs "
   contactDetails:
     name: "Samridhi Parihar - Product Owner"
     email: "samridhiparihar@sambank.com"
