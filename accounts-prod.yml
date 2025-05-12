@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to SamBank accounts related Prod APIs"
+  message: "Welcome to SamBank accounts related Production APIs ----changes here(Prod -> Production)"
   contactDetails:
     name: "Samridhi Parihar-Prod"
     email: "{cipher}1dc25c29d6b039b271d68674cbef026647dcd382dcf60a262b4c50d5d89c90f251216ec22a676ea620064a967447e900"
