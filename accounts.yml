@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SamBank accounts related local APIs"
+  message: "Welcome to SamBank accounts related local(docker) APIs"
   contactDetails:
     name: "Samridhi Parihar"
     email: "samparihar@gmail.com"
